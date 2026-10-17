@@ -17,8 +17,6 @@ This command searches `auth.log` for lines containing the exact text `uid=0`, al
 
 **Screenshot 1: Command Execution**
 
-Insert a screenshot showing the command executed in the terminal.
-
 ![Command Execution](screenshots/command.png)
 
 ### Reviewing the Output
@@ -32,8 +30,6 @@ session opened for user root
 This message explicitly identifies `root` as the account for which a session was opened.
 
 **Screenshot 2: Command Output**
-
-Insert a screenshot showing the relevant output returned by the command.
 
 ![Command Output]([screenshots/output.png](https://github.com/lenkamokoenaxm-arch/identifying-name-of-the-compromised-account/blob/9dd676a50b4186102141436ee70fef70d381a93b/Screenshots/name%20of%20compromised%20account.png))
 
