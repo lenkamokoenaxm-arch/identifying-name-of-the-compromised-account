@@ -35,7 +35,7 @@ This message explicitly identifies `root` as the account for which a session was
 
 Insert a screenshot showing the relevant output returned by the command.
 
-![Command Output](screenshots/output.png)
+![Command Output]([screenshots/output.png](https://github.com/lenkamokoenaxm-arch/identifying-name-of-the-compromised-account/blob/9dd676a50b4186102141436ee70fef70d381a93b/Screenshots/name%20of%20compromised%20account.png))
 
 ## Findings
 
